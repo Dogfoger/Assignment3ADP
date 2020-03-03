@@ -2,8 +2,9 @@ package trainor.sean;
 
 public class Animal {
 
-    public void amAnimal () {
-        System.out.println("I am an animal!");
+    public String amAnimal () {
+        String output = "I am an animal!";
+        return output;
     }
 
 }

@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7cd84e8-1014-4879-ac7a-9673c42062c6" name="Default Changelist" comment="" />
+    <list default="true" id="a7cd84e8-1014-4879-ac7a-9673c42062c6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/trainor/sean/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/trainor/sean/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/trainor/sean/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/trainor/sean/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/trainor/sean/Deer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/trainor/sean/Deer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/trainor/sean/InheritTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/trainor/sean/InheritTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/trainor/sean/Vegetarian.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/trainor/sean/Vegetarian.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/trainor/sean/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/trainor/sean/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/trainor/sean/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/trainor/sean/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/trainor/sean/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/trainor/sean/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/trainor/sean/Deer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/trainor/sean/Deer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/trainor/sean/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/trainor/sean/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/trainor/sean/Vegetarian.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/trainor/sean/Vegetarian.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/trainor/sean/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/trainor/sean/AppTest.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +30,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -23,6 +41,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1YcPwKz0kdTgAaP6Y85JBNZnI9N" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -30,8 +49,19 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Groovy JUnit" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="groovy.util.GroovyTestCase" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="trainor.sean" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="groovy.util.GroovyTestCase" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.App">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="trainor.sean.App" />
       <module name="Assignment3" />
@@ -45,9 +75,60 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="AppTest.DeerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assignment3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="trainor.sean.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="trainor.sean" />
+      <option name="MAIN_CLASS_NAME" value="trainor.sean.AppTest" />
+      <option name="METHOD_NAME" value="DeerTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest.compositionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assignment3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="trainor.sean.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="trainor.sean" />
+      <option name="MAIN_CLASS_NAME" value="trainor.sean.AppTest" />
+      <option name="METHOD_NAME" value="compositionTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest.inheritanceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assignment3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="trainor.sean.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="trainor.sean" />
+      <option name="MAIN_CLASS_NAME" value="trainor.sean.AppTest" />
+      <option name="METHOD_NAME" value="inheritanceTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.App" />
+        <item itemvalue="JUnit.AppTest.compositionTest" />
+        <item itemvalue="JUnit.AppTest.inheritanceTest" />
+        <item itemvalue="JUnit.AppTest.DeerTest" />
       </list>
     </recent_temporary>
   </component>
@@ -73,22 +154,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583241547061" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1583241836886">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1583243086628">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583241836886" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1583241836886">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583243086628" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1583243086628">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583241836886" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1583241836886">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583243086628" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1583243086628">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583241836886" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1583241836886">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583243086628" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1583243086628">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583241836886" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583243086628" />
+    <state x="731" y="223" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1583242270643">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="731" y="223" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583242270643" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1583239863098">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

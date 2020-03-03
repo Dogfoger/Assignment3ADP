@@ -11,8 +11,8 @@ public class InheritTest extends Encap {
         super(name, age, studentNum);
     }
 
-    public String printName (String name2) {
-        setName(name2);
+    public String printName () {
+        setName("Sean");
         return getName();
 
     }

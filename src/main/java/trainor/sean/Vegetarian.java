@@ -2,6 +2,6 @@ package trainor.sean;
 
 public interface Vegetarian {
 
-    public void amVeg();
+    public String amVeg();
 
 }

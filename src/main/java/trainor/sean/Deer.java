@@ -3,11 +3,13 @@ package trainor.sean;
 public class Deer extends Animal implements Vegetarian {
 
     @Override
-    public void amVeg() {
-        System.out.println("I am a vegetarian!");
+    public String amVeg() {
+        String output = "I am a Vegetarian!";
+        return output;
     }
 
-    public void amDeer() {
-        System.out.println("I am a deer!");
+    public String amDeer() {
+        String output = "I am a deer!";
+        return output;
     }
 }
